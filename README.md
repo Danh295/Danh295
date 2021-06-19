@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm just a highschool student working on some small projects from time to time
 
 <!--
 **Danh295/Danh295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
