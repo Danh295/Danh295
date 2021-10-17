@@ -1,9 +1,9 @@
 ### Hi, I'm Danny 👋
-A highschool student with aspirations in computer science
+Gr. 11 highschool student with aspirations in computer science
 >
 >- 📚 Experience in ***C/C++***, ***Java***, and ***Python***
->- 🌱 Currently prepping for CCC (_Canadian Computing Competition_)
->- 🤔 Thinking about learning _front-end_ development
+>- 🌱 Currently prepping for _CCC (Canadian Computing Competition)_
+>- 🤔 Thinking about learning _front-end development_
 >
 
 I work on small projects from time to time, but program pretty consistently with contest questions
