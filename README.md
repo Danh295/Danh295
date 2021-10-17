@@ -2,7 +2,7 @@
 A highschool student with aspirations in computer science
 
 I work on some small projects from time to time
-<b>    *Most of my code will be private since I'm mainly using this platform to just keep a record for now*</b>
+<br>    *Most of my code will be private since I'm mainly using this platform to just keep a record for now*</br>
 
 >
 >- 📚 Experience in C/C++, Java, and Python
