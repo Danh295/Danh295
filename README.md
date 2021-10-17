@@ -1,11 +1,14 @@
 ### Hi, I'm Danny 👋
-Just a highschool student with aspirations of eventually becoming a programmer/developer
+A highschool student with aspirations in computer science
 
-I work on some small projects from time to time; most of my code will be private since I'm mainly using this platform to just keep a record for now
+I work on some small projects from time to time
+  *Most of my code will be private since I'm mainly using this platform to just keep a record for now*
 
-- 🌱 I'm currently learning C/C++, Java, and Python
-- 🤔 I'm currently thinking of learning front-end development
-
+>
+>- 📚 Experience in C/C++, Java, and Python
+>- 🌱 Currently prepping for CCC
+>- 🤔 Thinking about learning front-end development
+>
 
 <!--
 **Danh295/Danh295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
