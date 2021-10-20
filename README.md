@@ -3,7 +3,7 @@ Gr. 11 highschool student with aspirations in computer science
 >
 >- 📚 Experience in ***C/C++***, ***Java***, and ***Python***
 >- 🌱 Currently prepping for _CCC (Canadian Computing Competition)_
->- 🤔 Thinking about learning _front-end development_
+>- 🤔 Thinking about learning _front-end & web development_
 >
 
 I work on small projects from time to time, but program pretty consistently with contest questions
