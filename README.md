@@ -11,7 +11,7 @@ I work on small projects from time to time, but program pretty consistently with
 --> *Most of my code will be private since I'm mainly using GitHub to just keep a record of my code*
 
 ### Contact me:
-[![Email:](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png 'Gmail')](mailto:hudanny295@gmail.com) 
+Click on this -> [![Email](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png 'Gmail')](mailto:hudanny295@gmail.com)
 
 
 <!--
