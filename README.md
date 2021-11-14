@@ -7,7 +7,8 @@ Gr. 11 highschool student with aspirations in computer science
 >
 
 I work on small projects from time to time, but program pretty consistently with contest questions
-- *Most of my code will be private since I'm mainly using GitHub to just keep a record of my code*
+
+-->*\*Most of my code will be private since I'm mainly using GitHub to just keep a record of my code*
 
 <!--
 **Danh295/Danh295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
