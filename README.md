@@ -12,7 +12,7 @@ I work on small projects from time to time, but program pretty consistently with
 
 ### Contact me:
 Click on this:
-[![Email](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png 'Gmail')](mailto:hudanny295@gmail.com)
+> [![Email](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png 'Gmail')](mailto:hudanny295@gmail.com)
 
 
 <!--
