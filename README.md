@@ -10,7 +10,9 @@ I work on small projects from time to time, but program pretty consistently with
 
 --> *Most of my code will be private since I'm mainly using GitHub to just keep a record of my code*
 
-### Reach me at my [email](mailto:hudanny295@gmail.com)
+### Contact me:
+[![Email:](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png 'Gmail')] [hudanny295@gmail.com](mailto:hudanny295@gmail.com) 
+
 
 <!--
 **Danh295/Danh295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
