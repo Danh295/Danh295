@@ -1,13 +1,12 @@
 # Hi, I'm Danny 👋
 ## A Gr. 11 highschool student with aspirations in computer science
->
->- 🌱 Currently prepping for _CCC (Canadian Computing Competition)_
->- 🎶 Loves music; playing the guitar, drums, bass clarinet
->- 🥅 2021 Goals
->   - Get involved in a hackathon
->   - Learn front-end development
->   - Complete a large-scale C++ project
->
+
+- 🌱 Currently prepping for _CCC (Canadian Computing Competition)_
+- 🎶 Loves music; playing the guitar, drums, bass clarinet
+- 🥅 2021 Goals
+   - Get involved in a hackathon
+   - Learn front-end development
+   - Complete a large-scale C++ project
 
 I mainly work on small projects from time to time, more consistently with programming contest questions from CCC & DMOJ
 - *Most of my code will be private since I'm mainly using GitHub to just keep record*
