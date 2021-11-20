@@ -1,4 +1,4 @@
-### Hi, I'm Danny 👋
+# Hi, I'm Danny 👋
 ## A Gr. 11 highschool student with aspirations in computer science
 >
 >- 🌱 Currently prepping for _CCC (Canadian Computing Competition)_
