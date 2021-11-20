@@ -1,8 +1,8 @@
 # Hi, I'm Danny 👋
-## A Gr. 11 highschool student with aspirations in computer science
+## Gr. 11 highschool student with aspirations in computer science
 
-- 🌱 Currently prepping for _CCC (Canadian Computing Competition)_
-- 🎶 Loves music; playing the guitar, drums, bass clarinet
+- 🌱 Prepping for the _CCC (Canadian Computing Competition)_
+- 🎶 Avid enjoyer of music; playing the guitar, drums, bass clarinet
 - 🥅 2021 Goals
    - Get involved in a hackathon
    - Learn front-end development
