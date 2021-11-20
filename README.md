@@ -1,19 +1,18 @@
 ### Hi, I'm Danny 👋
-## Gr. 11 highschool student with aspirations in computer science
+## A Gr. 11 highschool student with aspirations in computer science
 >
 >- 🌱 Currently prepping for _CCC (Canadian Computing Competition)_
+>- 🎶 Loves music; playing the guitar, drums, bass clarinet
 >- 🥅 2021 Goals
 >   - Get involved in a hackathon
 >   - Learn front-end development
 >   - Complete a large-scale C++ project
->- 🎶 Loves music; plays guitar, drums, bass clarinet
 >
-
 <br />
 
 ## Languages and Tools:
 
-[![Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png)](https://code.visualstudio.com/)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"](https://code.visualstudio.com/)
 
 
 I work on small projects from time to time, but program pretty consistently with contest questions
