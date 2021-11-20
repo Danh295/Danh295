@@ -20,7 +20,7 @@ I mainly work on small projects from time to time, more consistently with progra
 
 [<img align="left" alt="Intellij IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />](https://www.jetbrains.com/idea/)
 
-[<img align="left" alt="PyCharm" width="26px" src="https://scontent.fymy1-2.fna.fbcdn.net/v/t1.6435-9/80768532_3020560597972810_3275030339793190912_n.png?_nc_cat=111&ccb=1-5&_nc_sid=973b4a&_nc_ohc=L3UljZbMjU4AX8m5MeX&_nc_ht=scontent.fymy1-2.fna&oh=ca43fcc1ddac69684f52c0d5b61ddb94&oe=61BD93EB" />](https://www.jetbrains.com/pycharm/)
+[<img align="left" alt="PyCharm" width="26px" src="https://image.pngaaa.com/752/4621752-middle.png" />](https://www.jetbrains.com/pycharm/)
 
 [<img align="left" alt="Atom" width="26px" src="https://i.pinimg.com/originals/3f/a3/ba/3fa3ba4d765179f9889c3cf0672dd967.png" />](https://atom.io/)
 
