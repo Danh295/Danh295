@@ -12,7 +12,7 @@ I mainly work on small projects from time to time, more consistently with progra
 - *Most of my code will be private since I'm mainly using GitHub to just keep record*
 
 ## Contact me:
-[<img align="left" alt="Send me an email!" width="60px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png"](mailto:hudanny295@gmail.com)
+[<img align="left" alt="Send me an email!" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" />](mailto:hudanny295@gmail.com/)
       
 <br />
 
