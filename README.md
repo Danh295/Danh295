@@ -23,7 +23,7 @@ I mainly work on small projects from time to time, more consistently with progra
 [<img align="left" alt="Atom" width="30px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />](https://atom.io/)
 [<img align="left" alt="Vim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />]
 [<img align="left" alt="Github" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />](https://github.com)
-[<img align="left" alt="Gitlab" width="30px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />](https://gitlab.com)
+<img align="left" alt="Gitlab" width="30px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />
 
 <br />
 
