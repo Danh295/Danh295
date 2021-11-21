@@ -39,5 +39,6 @@ I mainly work on small projects from time to time, more consistently with progra
 
 <details>
    <summary> <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> Github Stats </summary>
-   <img align="left" alt="Danny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Danh295&show_icons=true&hide_border=true" />
+   <img align="left" alt="Danny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Danh295&show_icons=true&hide_border=true&bg_color=000000&border_radius=true&text_color=
+#2E9C25" />
 </details>
