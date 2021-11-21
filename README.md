@@ -11,10 +11,14 @@
 I mainly work on small projects from time to time, more consistently with programming contest questions from CCC & DMOJ
 - *Most of my code will be private since I'm mainly using GitHub to just keep record*
 
+---
+
 ## Contact me:
 [<img align="left" alt="Send me an email!" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" />](mailto:hudanny295@gmail.com/)
       
 <br />
+
+---
 
 ## Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/)
@@ -34,6 +38,6 @@ I mainly work on small projects from time to time, more consistently with progra
 ---
 
 </details>
-   <summary>:zap: Github Stats</summary>
+   ## Github Stats
    <img align="left" alt="Danny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Danh295&show_icons=true&hide_border=true" />
 </details/
