@@ -26,6 +26,7 @@ I mainly work on small projects from time to time, more consistently with progra
 [<img align="left" alt="Gitlab" width="40px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />](https://gitlab.com)
 
 <br />
+<br />
 
 [<img align="left" alt="C++" width="30px" src="https://isocpp.org/assets/images/cpp_logo.png" />](https://isocpp.org/)
 [<img align="left" alt="Java" width="30px" src="https://www.stackean.com/wp-content/uploads/2020/12/java.png" />](https://www.oracle.com/ca-en/java/technologies/)
@@ -41,6 +42,9 @@ I mainly work on small projects from time to time, more consistently with progra
    <br />
    
    <img align="left" alt="Danny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Danh295&show_icons=true&hide_border=true&bg_color=000000&title_color=48AF40&text_color=C3C3C3&icon_color=4ABB41&border_radius=30" />
+   
+   <br />
+   
    <img align="left" alt="Danny's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danh295&show_icons=true&hide_border=true&bg_color=000000&title_color=48AF40&text_color=C3C3C3&icon_color=4ABB41&border_radius=30" />
 
 </details>
