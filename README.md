@@ -1,8 +1,8 @@
 # Hi, I'm Danny 👋
-## Gr. 11 highschool student with aspirations in computer science
+## Gr. 11 highschool student, seeking a pathway in computer science
 
 - 🌱 Prepping for the _CCC (Canadian Computing Competition)_
-- 🎶 Avid enjoyer of music; playing the guitar, drums, bass clarinet
+- 🎶 Musician; mainly playing the guitar, drums, bass clarinet
 - 🥅 2021 Goals
    - Get involved in a hackathon
    - Learn front-end development
@@ -32,6 +32,7 @@ I mainly work on small projects from time to time, more consistently with progra
 
 <img align="left" alt="Danny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Danh295&show_icons=true&hide_border=true" />
 
+<br/>
 
 ### Contact me:
 [![Email](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png 'Gmail')](mailto:hudanny295@gmail.com)
