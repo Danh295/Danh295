@@ -12,7 +12,7 @@ I mainly work on small projects from time to time, more consistently with progra
 - *Most of my code will be private since I'm mainly using GitHub to just keep record*
 
 ## Contact me:
-[<img align="left" alt="Send me an email!" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" />](mailto:hudanny295@gmail.com/)
+[<img align="left" alt="Send me an email!" width="80px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" />](mailto:hudanny295@gmail.com/)
       
 <br />
 
@@ -31,7 +31,6 @@ I mainly work on small projects from time to time, more consistently with progra
 [<img align="left" alt="Java" width="30px" src="https://www.stackean.com/wp-content/uploads/2020/12/java.png" />](https://www.oracle.com/ca-en/java/technologies/)
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" />](https://www.python.org/)
 
-<br />
 <br />
 <br />
 
