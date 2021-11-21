@@ -36,6 +36,7 @@ I mainly work on small projects from time to time, more consistently with progra
 
 ---
 
+
 <details>
    <summary> <img align="left" alt="Git" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /> Github Stats </summary>  
    
