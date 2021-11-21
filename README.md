@@ -26,6 +26,7 @@ I mainly work on small projects from time to time, more consistently with progra
 [<img align="left" alt="Gitlab" width="30px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />](https://gitlab.com)
 
 <br />
+<br />
 
 [<img align="left" alt="C++" width="30px" src="https://isocpp.org/assets/images/cpp_logo.png" />](https://isocpp.org/)
 [<img align="left" alt="Java" width="30px" src="https://www.stackean.com/wp-content/uploads/2020/12/java.png" />](https://www.oracle.com/ca-en/java/technologies/)
