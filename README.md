@@ -26,11 +26,11 @@ I mainly work on small projects from time to time, more consistently with progra
 
 [<img align="left" alt="C++" width="30px" src="https://isocpp.org/assets/images/cpp_logo.png" />](https://isocpp.org/)
 [<img align="left" alt="Java" width="30px" src="https://www.stackean.com/wp-content/uploads/2020/12/java.png" />](https://www.oracle.com/ca-en/java/technologies/)
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" />](https://www.python.org/)
+<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" />(https://www.python.org/)
 
 <br/>
 
-[<img align="left" alt="Danny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Danh295&show_icons=true&hide_border=true"/>]
+<img align="left" alt="Danny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Danh295&show_icons=true&hide_border=true"/>
 
 <br/>
 <br/>
