@@ -34,7 +34,9 @@ I mainly work on small projects from time to time, more consistently with progra
 <br />
 <br />
 
+---
+
 <details>
-   <summary> Github Stats </summary>
+   <summary> [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />] Github Stats </summary>
    <img align="left" alt="Danny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Danh295&show_icons=true&hide_border=true" />
 </details>
