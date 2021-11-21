@@ -44,9 +44,7 @@ I mainly work on small projects from time to time, more consistently with progra
    <img align="left" alt="Danny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Danh295&show_icons=true&hide_border=true&bg_color=000000&title_color=48AF40&text_color=C3C3C3&icon_color=4ABB41&border_radius=30" />
    
    <br />
-   <br />
-   <br>
-   
+
    <img align="left" alt="Danny's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danh295&show_icons=true&hide_border=true&bg_color=000000&title_color=48AF40&text_color=C3C3C3&icon_color=4ABB41&border_radius=30" />
 
 </details>
