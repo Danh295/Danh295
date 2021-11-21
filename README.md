@@ -32,8 +32,8 @@ I mainly work on small projects from time to time, more consistently with progra
 
 <img align="left" alt="Danny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Danh295&show_icons=true&hide_border=true" />
 
-<br/>
-<br/>
+\
+\
 
 ## Contact me:
 [![Email](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png 'Gmail')](mailto:hudanny295@gmail.com)
