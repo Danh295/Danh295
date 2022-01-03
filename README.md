@@ -53,6 +53,8 @@ I mainly work on small projects from time to time, more consistently with progra
   <img src="https://pageview.vercel.app/?github_user=Danh295" alt="visitor badge"/>
 </p>
 
+---
+
 ## Send me an email!
 [<img alt="Send me an email!" width="120px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" />](mailto:hudanny295@gmail.com/)
 
