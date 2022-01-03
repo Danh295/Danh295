@@ -29,9 +29,6 @@ I mainly work on small projects from time to time, more consistently with progra
 <br />
 <br />
 
-## Shoot me an email!
-[<img alt="Send me an email!" width="120px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" />](mailto:hudanny295@gmail.com/)
-
 ## Github Stats   
 
 <p align="center">    
@@ -47,12 +44,11 @@ I mainly work on small projects from time to time, more consistently with progra
 <br />
 <br />
 <br />
-<br />
-<br />
 
 ---
 
 <p  align="center">
+  [<img alt="Send me an email!" width="120px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" />](mailto:hudanny295@gmail.com/)
   <img src="https://img.shields.io/github/last-commit/Danh295/Danh295" alt="GitHub last commit"/>
   <img src="https://pageview.vercel.app/?github_user=Danh295" alt="visitor badge"/>
 </p>
