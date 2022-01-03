@@ -37,15 +37,16 @@ I mainly work on small projects from time to time, more consistently with progra
    <img align="left" alt="Danny's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danh295&show_icons=true&hide_border=true&bg_color=020122&title_color=48AF40&text_color=C3C3C3&icon_color=4ABB41&border_radius=30" />
 </p>
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Send me an email!
 [<img alt="Send me an email!" width="120px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" />](mailto:hudanny295@gmail.com/)
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ---
 
