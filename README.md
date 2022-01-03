@@ -9,7 +9,6 @@
 
 I mainly work on small projects from time to time, more consistently with programming contest questions from CCC & DMOJ
 - *Most of my code will be private since I'm mainly using GitHub to just keep record*
-
 <br />
 
 ## Languages and Tools:
