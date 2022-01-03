@@ -48,5 +48,6 @@ I mainly work on small projects from time to time, more consistently with progra
 </details>
 
 <p  align="center">
+  <img src="https://img.shields.io/github/last-commit/Danh295/Danh295" alt="GitHub last commit"/>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Danh205.Danh295" alt="visitor badge"/>
 </p>
