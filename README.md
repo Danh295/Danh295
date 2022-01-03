@@ -1,4 +1,4 @@
-# Hi, I'm Danny 👋
+# Hi, I'm Danny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![img align="left"](https://visitor-badge.glitch.me/badge?page_id=Danh295.Danh295)
 ## Gr. 11 highschool student, seeking a pathway in computer science
 
 - 🌱 Prepping for the _CCC (Canadian Computing Competition)_
