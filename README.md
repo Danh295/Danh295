@@ -48,5 +48,5 @@ I mainly work on small projects from time to time, more consistently with progra
 </details>
 
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Danh205.Danh295&left_color=020122&right_color=4ABB41" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Danh205.Danh295&left_color=4ABB41&right_color=4ABB41" alt="visitor badge"/>
 </p>
