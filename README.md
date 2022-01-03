@@ -49,12 +49,6 @@ I mainly work on small projects from time to time, more consistently with progra
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ---
 
@@ -62,5 +56,3 @@ I mainly work on small projects from time to time, more consistently with progra
   <img src="https://img.shields.io/github/last-commit/Danh295/Danh295" alt="GitHub last commit"/>
   <img src="https://pageview.vercel.app/?github_user=Danh295" alt="visitor badge"/>
 </p>
-
----
