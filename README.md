@@ -1,7 +1,7 @@
 # Hi, I'm Danny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🌱 Prepping for the _CCC (Canadian Computing Competition)_
-- 🎶 Musician; mainly playing the guitar, drums, bass clarinet
+- 🎶 Musician
 - 🥅 2021 Goals
    - Get involved in a hackathon
    - Learn front-end development
