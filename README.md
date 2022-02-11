@@ -2,7 +2,7 @@
 
 - 🌱 Prepping for the _CCC (Canadian Computing Competition)_
 - 🎶 Musician; classical guitarist, drummer, b. clarinetist
-- 🥅 2021 Goals
+- 🥅 2022 Goals
    - Get involved in a hackathon
    - Learn front-end development
    - Complete a large-scale C++ project
