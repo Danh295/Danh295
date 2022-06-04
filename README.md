@@ -1,4 +1,4 @@
-# Hi, I'm Danny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Danny 👋
 
 - 🌱 Prepping for the _CCC (Canadian Computing Competition)_
 - 🎶 Musician; classical guitarist, drummer, b. clarinetist
