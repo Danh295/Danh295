@@ -5,7 +5,7 @@
 - 🥅 2022 Goals
    - Get involved in a hackathon
    - Learn front-end development
-   - Develop a simple game
+   - Develop a game
 
 I mainly work on small projects from time to time, more consistently with programming contest questions from CCC & DMOJ
 - *Most of my code will be private since I'm mainly using GitHub to just keep record*
