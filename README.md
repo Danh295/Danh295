@@ -3,8 +3,8 @@
 - 🌱 Prepping for the _CCC (Canadian Computing Competition)_
 - 🎶 Musician; classical guitarist, drummer, b. clarinetist
 - 🥅 2022 Main Goals
-   - Get involved in a hackathon
-   - Learn about web-development by working with a team on a website
+   - ~~Get involved in a hackathon~~
+   - ~~Learn about web-development by working with a team on a website~~
    - Develop a game
 
 I mainly work on small projects from time to time, more consistently with programming contest questions from CCC & DMOJ
