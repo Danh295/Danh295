@@ -4,8 +4,8 @@
 - 🎶 Musician; classical guitarist, drummer, b. clarinetist
 - 🥅 2022 Main Goals
    - ~~Get involved in a hackathon~~
-   - ~~Learn about web-development & working with a team to build a website~~
-   - Develop a game (larger scale project)
+   - ~~Learn about WebDev & work with a team to build a website~~
+   - Learn about GameDev and build a game (larger scale project)
 
 I mainly work on small projects from time to time, more consistently with programming contest questions from CCC & DMOJ
 *Most of my code are private since I'm mainly using GitHub to just keep record*
