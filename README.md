@@ -21,7 +21,7 @@ I mainly work on small projects from time to time, more consistently with progra
 [<img align="left" alt="C++" width="30px" src="https://isocpp.org/assets/images/cpp_logo.png" />](https://isocpp.org/)
 [<img align="left" alt="Java" width="30px" src="https://www.stackean.com/wp-content/uploads/2020/12/java.png" />](https://www.oracle.com/ca-en/java/technologies/)
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" />](https://www.python.org/)
-[<img align="left" alt="HTML" width="30px" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" />]()
+[<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />]()
 [<img align="left" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" />]()
 [<img align="left" alt="Javascript" width="35px" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" />]()
 
