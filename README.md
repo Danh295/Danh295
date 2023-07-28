@@ -10,7 +10,6 @@ I mainly work on small projects from time to time, more consistently with progra
 [<img align="left" alt="PyCharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" />](https://www.jetbrains.com/pycharm/)
 [<img align="left" alt="Atom" width="30px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />](https://atom.io/)
 [<img align="left" alt="Vim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />](https://www.vim.org/)
-[<img align="left" alt="Github" width="35px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />](https://github.com)
 [<img align="left" alt="Gitlab" width="40px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />](https://gitlab.com)
 
 <br />
