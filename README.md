@@ -5,6 +5,7 @@ I mainly work on small projects from time to time, more consistently with progra
 
 ## Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="Visual Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" />](https://visualstudio.microsoft.com/)
 [<img align="left" alt="Intellij IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />](https://www.jetbrains.com/idea/)
 [<img align="left" alt="PyCharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" />](https://www.jetbrains.com/pycharm/)
 [<img align="left" alt="Atom" width="30px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />](https://atom.io/)
