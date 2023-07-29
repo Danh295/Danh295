@@ -46,7 +46,6 @@ I mainly work on small projects from time to time, more consistently with progra
 <br />
 <br />
 
----
 
 <p  align="center">
   <img src="https://img.shields.io/github/last-commit/Danh295/Danh295" alt="GitHub last commit"/>
