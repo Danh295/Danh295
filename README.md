@@ -19,7 +19,7 @@ I mainly work on small projects from time to time, more consistently with progra
 
 [<img align="left" alt="C#" width="30px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [<img align="left" alt="C++" width="30px" src="https://isocpp.org/assets/images/cpp_logo.png" />](https://isocpp.org/)
-[<img align="left" alt="Java" width="30px" src="https://banner2.cleanpng.com/20181126/zpf/kisspng-java-scalable-vector-graphics-computer-software-lo-reveal-js-the-html-presentation-framework-5bfb8a6be76274.8225297015432116279478.jpg" />](https://www.oracle.com/ca-en/java/technologies/)
+[<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />](https://www.oracle.com/ca-en/java/technologies/)
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" />](https://www.python.org/)
 [<img align="left" alt="HTML" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />]()
 [<img align="left" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" />]()
