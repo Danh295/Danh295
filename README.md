@@ -17,6 +17,7 @@ I mainly work on small projects from time to time, more consistently with progra
 <br />
 <br />
 
+[<img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />](https://www.cprogramming.com/)
 [<img align="left" alt="C#" width="30px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [<img align="left" alt="C++" width="30px" src="https://isocpp.org/assets/images/cpp_logo.png" />](https://isocpp.org/)
 [<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />](https://www.oracle.com/ca-en/java/technologies/)
