@@ -1,9 +1,9 @@
 # Hi, I'm Danny 👋
 
-I mainly work on small projects from time to time, more consistently with programming contest questions from CCC & DMOJ. 
-🎮 Currently learning game dev with C# and Unity.
+I work on small projects and have experience in contest questions from CCC & DMOJ. 
+💾 Currently learning CPU architecture and OS development with C & Assembly x86
 
-*Most of my code is private since I'm mainly using GitHub to just keep records*
+*Most of my code is private since I'm mainly using GitHub to keep records*
 
 ## Languages and Tools
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/)
@@ -13,6 +13,8 @@ I mainly work on small projects from time to time, more consistently with progra
 [<img align="left" alt="Atom" width="30px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />](https://atom.io/)
 [<img align="left" alt="Vim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />](https://www.vim.org/)
 [<img align="left" alt="Gitlab" width="40px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />](https://gitlab.com)
+[<img align="left" alt="NASM" width="40px" src="https://logowik.com/content/uploads/images/netwide-assembler-nasm4852.logowik.com.webp" />](https://www.nasm.us/)
+[<img align="left" alt="NASM" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_169821.png" />](https://www.qemu.org/)
 
 <br />
 <br />
