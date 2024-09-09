@@ -1,6 +1,6 @@
 # Hi, I'm Danny 👋
 
-I work on small projects and have experience in contest questions from CCC & DMOJ. 
+I work on some projects here from time to time!
 <br>
 💾 Currently learning CPU architecture and OS development with C & Assembly x86
 
