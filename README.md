@@ -2,8 +2,8 @@
 
 I work on some projects here from time to time!
 <br>
-💾 Currently learning CPU architecture and OS development with C & Assembly x86\
-
+💾 Currently learning CPU architecture and OS development with C & Assembly x86
+<br>
 🎓 Studying CS (UW) & BBA (WLU) '28
 
 *Most of my code is private since I'm mainly using GitHub to keep records*
