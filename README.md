@@ -28,8 +28,6 @@ I work on some projects here from time to time!
 <br />
 <br />
 <br>
-<br>
-<br>
 
 [<img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />](https://www.cprogramming.com/)
 [<img align="left" alt="C++" width="30px" src="https://isocpp.org/assets/images/cpp_logo.png" />](https://isocpp.org/)
