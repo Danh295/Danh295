@@ -3,7 +3,9 @@
 I work on some projects here from time to time!
 <br>
 💾 Self-learning OS development with C & Assembly x86
+<br>
 🔬 Playing around with Python and data analysis with Pandas & Matplotlib
+<br>
 📖 Studying C/C++ at the University of Waterloo
 <br>
 🎓 Studying CS (UW) & BBA (WLU) '28
