@@ -2,11 +2,11 @@
 
 I work on some projects here from time to time!
 <br>
-💾 Currently learning CPU architecture and OS development with C & Assembly x86
+💾 Self-learning OS development with C & Assembly x86
+🔬 Playing around with Python and data analysis with Pandas & Matplotlib
+📖 Studying C/C++ at the University of Waterloo
 <br>
 🎓 Studying CS (UW) & BBA (WLU) '28
-
-*Most of my code is private since I'm mainly using GitHub to keep records*
 
 ## Languages and Tools
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/)
