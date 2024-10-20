@@ -18,7 +18,7 @@ I work on some projects here from time to time!
 [<img align="left" alt="PyCharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" />](https://www.jetbrains.com/pycharm/)
 [<img align="left" alt="Atom" width="30px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />](https://atom.io/)
 [<img align="left" alt="Vim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />](https://www.vim.org/)
-[<img align="left" alt="Git" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_169821.png" />]
+[<img align="left" alt="Git" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_169821.png" />]()
 [<img align="left" alt="Gitlab" width="40px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />](https://gitlab.com)
 [<img align="left" alt="NASM" width="40px" src="https://logowik.com/content/uploads/images/netwide-assembler-nasm4852.logowik.com.webp" />](https://www.nasm.us/)
 [<img align="left" alt="QEMU" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_169821.png" />](https://www.qemu.org/)
