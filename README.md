@@ -10,25 +10,7 @@ I work on some projects here from time to time!
 <br>
 🎓 Studying CS (UW) & BBA (WLU) '28
 
-## Languages and Tools
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="Visual Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" />](https://visualstudio.microsoft.com/)
-[<img align="left" alt="Intellij IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />](https://www.jetbrains.com/idea/)
-[<img align="left" alt="PyCharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" />](https://www.jetbrains.com/pycharm/)
-[<img align="left" alt="Atom" width="30px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />](https://atom.io/)
-[<img align="left" alt="Vim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />](https://www.vim.org/)
-[<img align="left" alt="Git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />]()
-[<img align="left" alt="Gitlab" width="40px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />](https://gitlab.com)
-[<img align="left" alt="NASM" width="40px" src="https://www.herminos.site/_next/static/media/NASM.60abf161.svg" />](https://www.nasm.us/)
-
-[//]: # ([<img align="left" alt="QEMU" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_169821.png" />](https://www.qemu.org/))
-
-[<img align="left" alt="Unix/Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />]()
-
-
-<br />
-<br />
-<br>
+## Languages & Tools
 
 [<img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />](https://www.cprogramming.com/)
 [<img align="left" alt="C++" width="30px" src="https://isocpp.org/assets/images/cpp_logo.png" />](https://isocpp.org/)
@@ -38,6 +20,32 @@ I work on some projects here from time to time!
 [<img align="left" alt="HTML" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />]()
 [<img align="left" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" />]()
 [<img align="left" alt="Javascript" width="35px" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" />]()
+[<img align="left" alt="Typescript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />]()
+
+<br />
+<br />
+<br>
+
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="Visual Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" />](https://visualstudio.microsoft.com/)
+[<img align="left" alt="Intellij IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />](https://www.jetbrains.com/idea/)
+[<img align="left" alt="Figma" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" />]()
+[<img align="left" alt="Atom" width="30px" src="https://e7.pngegg.com/pngimages/975/30/png-clipart-atom-source-code-editor-text-editor-logo-visual-studio-code-design-text-logo.png" />](https://atom.io/)
+[<img align="left" alt="Vim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />](https://www.vim.org/)
+[<img align="left" alt="Git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />]()
+[<img align="left" alt="NASM" width="40px" src="https://www.herminos.site/_next/static/media/NASM.60abf161.svg" />](https://www.nasm.us/)
+[<img align="left" alt="Unix/Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />]()
+
+
+<br />
+<br />
+<br>
+
+[<img align="left" alt="React" width="40px" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" />]()
+[<img align="left" alt="NextJS" width="35px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />]()
+[<img align="left" alt="Strapi" width="35px" src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=256,quality=90,fit=scale-down" />]()
+[<img align="left" alt="Tailwind" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" />]()
+
 
 <br />
 <br />
