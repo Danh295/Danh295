@@ -29,7 +29,7 @@ I work on some projects here from time to time!
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="Visual Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" />](https://visualstudio.microsoft.com/)
 [<img align="left" alt="Intellij IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />](https://www.jetbrains.com/idea/)
-[<img align="left" alt="Figma" width="35px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" />]()
+[<img align="left" alt="Figma" width="20px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" />]()
 [<img align="left" alt="Atom" width="30px" src="https://raw.githubusercontent.com/zeke/atom-icon/master/old-icon/2.png" />](https://atom.io/)
 [<img align="left" alt="Vim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />](https://www.vim.org/)
 [<img align="left" alt="Git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />]()
