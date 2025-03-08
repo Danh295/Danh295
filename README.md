@@ -44,7 +44,7 @@ I work on some projects here from time to time!
 [<img align="left" alt="React" width="50px" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" />]()
 [<img align="left" alt="NextJS" width="35px" src="https://www.datocms-assets.com/98835/1684410508-image-7.png" />]()
 [<img align="left" alt="Strapi" width="35px" src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=256,quality=90,fit=scale-down" />]()
-[<img align="left" bottom="-50px" alt="Tailwind" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" />]()
+[<img align="left" alt="Tailwind" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" />]()
 
 
 <br />
