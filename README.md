@@ -20,7 +20,9 @@ I work on some projects here from time to time!
 [<img align="left" alt="Git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />]()
 [<img align="left" alt="Gitlab" width="40px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />](https://gitlab.com)
 [<img align="left" alt="NASM" width="40px" src="https://www.herminos.site/_next/static/media/NASM.60abf161.svg" />](https://www.nasm.us/)
-[<img align="left" alt="QEMU" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_169821.png" />](https://www.qemu.org/)
+
+[//]: # ([<img align="left" alt="QEMU" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/qemu_logo_icon_169821.png" />](https://www.qemu.org/))
+
 [<img align="left" alt="Unix/Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />]()
 
 
