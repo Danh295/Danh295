@@ -3,9 +3,9 @@
 I work on some projects here from time to time!
 <br>
 <br>
-💾 Self-learning OS development with C & Assembly x86
+```💾 Self-learning OS development with C & Assembly x86```
 <br>
-🔬 Playing around with Python and data analysis with Pandas & Matplotlib
+🧑‍💻 Working with web development using Next.Js with React and Strapi
 <br>
 📖 Studying C/C++ at the University of Waterloo
 <br>
