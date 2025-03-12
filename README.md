@@ -1,7 +1,6 @@
 # Hi, I'm Danny 👋
 
 I work on some projects here from time to time!
-<br>
 
 <br>
 🧑‍💻 Working with web development using Next.Js with React and Strapi
