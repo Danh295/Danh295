@@ -30,9 +30,9 @@ I work on some projects here from time to time!
 [<img align="left" alt="Figma" width="23px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" />]()
 [<img align="left" alt="Atom" width="30px" src="https://raw.githubusercontent.com/zeke/atom-icon/master/old-icon/2.png" />](https://atom.io/)
 [<img align="left" alt="Vim" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" />](https://www.vim.org/)
-[<img align="left" alt="Git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />]()
-[<img align="left" alt="NASM" width="40px" src="https://www.herminos.site/_next/static/media/NASM.60abf161.svg" />](https://www.nasm.us/)
-[<img align="left" alt="Unix/Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />]()
+[<img align="left" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />]()
+[<img align="left" alt="NASM" width="35px" src="https://www.herminos.site/_next/static/media/NASM.60abf161.svg" />](https://www.nasm.us/)
+[<img align="left" alt="Unix/Linux" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />]()
 
 
 <br />
