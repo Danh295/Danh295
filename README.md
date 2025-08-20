@@ -12,7 +12,7 @@ I work on some projects here from time to time!
 
 [<img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />](https://www.cprogramming.com/)
 [<img align="left" alt="C++" width="30px" src="https://isocpp.org/assets/images/cpp_logo.png" />](https://isocpp.org/)
-[<img align="left" alt="C#" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[<img align="left" alt="C#" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />](https://www.oracle.com/ca-en/java/technologies/)
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" />](https://www.python.org/)
 [<img align="left" alt="HTML" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />]()
