@@ -10,25 +10,38 @@
 
 ## Languages & Tools
 
-| Languages |  |  |  |  |
-|-----------|--|--|--|--|
-| <a href="https://www.cprogramming.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="30px"/></a> | <a href="https://isocpp.org/"><img src="https://isocpp.org/assets/images/cpp_logo.png" width="30px"/></a> | <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/910px-Logo_C_sharp.svg.png" width="30px"/></a> | <a href="https://www.oracle.com/ca-en/java/technologies/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="30px"/></a> | <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width="30px"/></a> |
+<code><img height="20" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"></code>
+<code><img height="20" alt="C++" src="https://isocpp.org/assets/images/cpp_logo.png"></code>
+<code><img height="20" alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/910px-Logo_C_sharp.svg.png"></code>
+<code><img height="20" alt="Java" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"></code>
+<code><img height="20" alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png"></code>
+<code><img height="20" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></code>
+<code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png"></code>
+<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
-| Web & Markup |  |  |  |  |
-|--------------|--|--|--|--|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="35px"/> | <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" width="35px"/> | <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" width="35px"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="35px"/> | |
+<br>
 
-| IDEs & Editors |  |  |  |  |
-|----------------|--|--|--|--|
-| <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="30px"/></a> | <a href="https://visualstudio.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" width="30px"/></a> | <a href="https://www.jetbrains.com/idea/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="26px"/></a> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" width="23px" height="35px"/> | <a href="https://atom.io/"><img src="https://raw.githubusercontent.com/zeke/atom-icon/master/old-icon/2.png" width="30px"/></a> |
+### IDEs & Editors
 
-| Other Tools |  |  |  |  |
-|-------------|--|--|--|--|
-| <a href="https://www.vim.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" width="30px"/></a> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35px"/> | <a href="https://www.nasm.us/"><img src="https://www.herminos.site/_next/static/media/NASM.60abf161.svg" width="35px"/></a> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="35px"/> | |
+<code><img height="20" alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="20" alt="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png"></code>
+<code><img height="20" alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"></code>
+<code><img height="20" alt="Figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png"></code>
+<code><img height="20" alt="Atom" src="https://raw.githubusercontent.com/zeke/atom-icon/master/old-icon/2.png"></code>
+<code><img height="20" alt="Vim" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png"></code>
+<code><img height="20" alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img height="20" alt="NASM" src="https://www.herminos.site/_next/static/media/NASM.60abf161.svg"></code>
+<code><img height="20" alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
 
-| Frameworks & Libraries |  |  |  |  |
-|----------------------|--|--|--|--|
-| <img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" width="50px"/> | <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" width="35px"/> | <img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=256,quality=90,fit=scale-down" width="35px"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="35px"/> | |
+<br>
+
+### Frameworks & Libraries
+
+<code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="NextJS" src="https://www.datocms-assets.com/98835/1684410508-image-7.png"></code>
+<code><img height="20" alt="Strapi" src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=256,quality=90,fit=scale-down"></code>
+<code><img height="20" alt="Tailwind" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"></code>
 
 ## Github Stats
 
