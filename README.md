@@ -61,16 +61,6 @@ I work on some projects here from time to time!
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ---
 
