@@ -4,7 +4,7 @@ I work on some projects here from time to time!
 <br>
 💼 Currently seeking internships 🤞🙏
 <br>
-🧑‍💻 Working on a portfolio website with React and Next.js
+🧑‍💻 Portfolio website in the works
 <br>
 📖 Studying C/C++ at the University of Waterloo
 <br>
