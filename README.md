@@ -1,6 +1,6 @@
 # Hi, I'm Danny 👋
 
-<div align="left" style="line-height: 1.8;">
+<div align="left" style="line-height: 1.8; margin-bottom: 20px;">
   I work on some projects here from time to time!<br>
   💼 Currently seeking internships 🤞🙏<br>
   🧑‍💻 Portfolio website in the works<br>
@@ -8,11 +8,9 @@
   🎓 CS (UW) & BBA (WLU) '28
 </div>
 
----
-
 ## Languages & Tools
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 10px; margin-bottom: 25px;">
   <a href="https://www.cprogramming.com/"><img alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" /></a>
   <a href="https://isocpp.org/"><img alt="C++" width="30px" src="https://isocpp.org/assets/images/cpp_logo.png" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/910px-Logo_C_sharp.svg.png" /></a>
@@ -24,7 +22,7 @@
   <img alt="Typescript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
 </div>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px; margin-bottom: 40px;">
   <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /></a>
   <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" /></a>
   <a href="https://www.jetbrains.com/idea/"><img alt="Intellij IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" /></a>
@@ -36,27 +34,25 @@
   <img alt="Unix/Linux" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
 </div>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 40px;">
   <img alt="React" width="50px" src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" />
   <img alt="NextJS" width="35px" src="https://www.datocms-assets.com/98835/1684410508-image-7.png" />
   <img alt="Strapi" width="35px" src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=256,quality=90,fit=scale-down" />
   <img alt="Tailwind" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" />
 </div>
 
----
-
 ## Github Stats
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
   <img alt="Danny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Danh295&show_icons=true&hide_border=true&bg_color=020122&title_color=48AF40&text_color=C3C3C3&icon_color=4ABB41&border_radius=30" />
   <img alt="Danny's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danh295&show_icons=true&hide_border=true&bg_color=020122&title_color=48AF40&text_color=C3C3C3&icon_color=4ABB41&border_radius=30&layout=compact&langs_count=10" />
 </div>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 10px;">
+---
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
   <img src="https://img.shields.io/github/last-commit/Danh295/Danh295" alt="GitHub last commit"/>
   <img src="https://komarev.com/ghpvc/?username=Danh295&color=4ABB41" alt="visitor badge"/>
 </div>
-
 ---
 
 ## Contact me!
