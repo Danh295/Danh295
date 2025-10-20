@@ -41,11 +41,13 @@
 
 ## Github Stats
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-  <div align="center" style="display: flex; justify-content: center; align-items: center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: center; align-items: center;">
     <img alt="Danny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Danh295&show_icons=true&hide_border=true&bg_color=020122&title_color=48AF40&text_color=C3C3C3&icon_color=4ABB41&border_radius=30" />
   </div>
-  <img alt="Danny's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danh295&show_icons=true&hide_border=true&bg_color=020122&title_color=48AF40&text_color=C3C3C3&icon_color=4ABB41&border_radius=30&layout=compact&langs_count=10" />
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img alt="Danny's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danh295&show_icons=true&hide_border=true&bg_color=020122&title_color=48AF40&text_color=C3C3C3&icon_color=4ABB41&border_radius=30&layout=compact&langs_count=10" />
+  </div>
 </div>
 
 ---
