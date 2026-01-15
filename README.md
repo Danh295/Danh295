@@ -37,15 +37,15 @@
 
 ## Github Stats
 
-<p align="center">
-  <img width="48%" src="https://metrics.lecoq.io/Danh295?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2FToronto" alt="Danh295 Metrics" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danh295&theme=github_dark" alt="Danh295 Profile Details" />
+  
+  <br/> <br/>
 
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danh295&theme=tokyonight" alt="Danh295 Profile Details" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danh295&theme=github_dark" alt="Danh295 Languages" />
+</div>
 
-<p align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danh295&theme=tokyonight" alt="Danh295 Languages" />
-</p>
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/Danh295/Danh295?style=flat-square&color=3FA955&labelColor=0D1117" alt="GitHub last commit"/>
@@ -54,11 +54,12 @@
 
 ## Contact me!
 
-<p align="center">
+<div align="left">
   <a href="mailto:hudanny295@gmail.com">
     <img height="50" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" alt="Gmail">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/danny-hu-395380225/">
+  
+  <br /> <a href="https://www.linkedin.com/in/danny-hu-395380225/">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="LinkedIn">
   </a>
-</p>
+</div>
