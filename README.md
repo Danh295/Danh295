@@ -1,10 +1,9 @@
 # Hi, I'm Danny 👋
 
 <div align="left" style="line-height: 1.8; margin-bottom: 20px;">
-  I'm a full-stack software developer and student!
+  I'm a full-stack **software developer** and **student**!<br>
   💼 Currently working at the City of Waterloo<br>
-  🧑‍💻 Portfolio website in the works<br>
-  🎓 Studying CS @ UW and BBA @ WLU
+  🎓 Studying CS @ UW and BBA @ WLU<br>
 </div>
 
 ## Languages
@@ -12,11 +11,11 @@
 <code><img height="20" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
 <code><img height="20" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="20" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img height="20" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img height="20" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 <code><img height="20" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="20" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-<code><img height="20" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 
 ### Editors & Tools
 
@@ -38,28 +37,21 @@
 ## Github Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danh295&theme=github_dark" alt="Danh295 Profile Details" />
-  
-  <br/> <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danh295&theme=github_dark" alt="Danh295 Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Danh295&show_icons=true&bg_color=151515&title_color=2ea44f&icon_color=2ea44f&text_color=ffffff&hide_border=true&border_radius=50px" height="150" alt="Danh295 Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Danh295&layout=compact&bg_color=151515&title_color=2ea44f&icon_color=2ea44f&text_color=ffffff&hide_border=true&border_radius=50px" height="150" alt="Danh295 Languages" />
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/github/last-commit/Danh295/Danh295?style=flat-square&color=2ea44f&labelColor=151515" alt="GitHub last commit"/>
+  <img src="https://komarev.com/ghpvc/?username=Danh295&style=flat-square&color=2ea44f&label=VIEWS&labelColor=151515" alt="visitor badge"/>
 </div>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/Danh295/Danh295?style=flat-square&color=3FA955&labelColor=0D1117" alt="GitHub last commit"/>
-  <img src="https://komarev.com/ghpvc/?username=Danh295&style=flat-square&color=3FA955&label=VIEWS" alt="visitor badge"/>
-</p>
 
 ## Contact me!
 
-<div align="left">
+<div align="left" gap="50px">
   <a href="mailto:hudanny295@gmail.com">
-    <img height="50" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" alt="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail" />
   </a>
-  
-  <br /> <a href="https://www.linkedin.com/in/danny-hu-395380225/">
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/danny-hu-395380225/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
   </a>
 </div>
