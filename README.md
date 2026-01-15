@@ -38,9 +38,13 @@
 ## Github Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Danh295&theme=dark&background=0D1117&ring=3FA955&currStreakLabel=3FA955&fire=3FA955&border=0D1117&hide_border=true" alt="Danh295's Streak" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danh295&theme=dark&bg_color=0D1117&title_color=3FA955&text_color=c9d1d9&hide_border=true&layout=compact" alt="Danh295's Top Langs" />
+  <img width="48%" src="https://metrics.lecoq.io/Danh295?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2FToronto" alt="Danh295 Metrics" />
+
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danh295&theme=tokyonight" alt="Danh295 Profile Details" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danh295&theme=tokyonight" alt="Danh295 Languages" />
 </p>
 
 <p align="center">
@@ -48,15 +52,13 @@
   <img src="https://komarev.com/ghpvc/?username=Danh295&style=flat-square&color=3FA955&label=VIEWS" alt="visitor badge"/>
 </p>
 
-
 ## Contact me!
 
 <p align="center">
   <a href="mailto:hudanny295@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hudanny295%40gmail.com-3FA955?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+    <img height="50" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" alt="Gmail">
   </a>
-  
-  &nbsp;&nbsp; <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID_HERE/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-3FA955?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/danny-hu-395380225/">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="LinkedIn">
   </a>
 </p>
