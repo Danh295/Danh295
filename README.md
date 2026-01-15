@@ -26,7 +26,6 @@
 <code><img height="20" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
 <code><img height="20" alt="Vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"></code>
 <code><img height="20" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img height="20" alt="NASM" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg"></code>
 <code><img height="20" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 
 ### Frameworks & Libraries
@@ -40,19 +39,16 @@
 
 ## Github Stats
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img alt="Danny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Danh295&show_icons=true&hide_border=true&bg_color=020122&title_color=48AF40&text_color=C3C3C3&icon_color=4ABB41&border_radius=30" />
-  <img alt="Danny's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danh295&show_icons=true&hide_border=true&bg_color=020122&title_color=48AF40&text_color=C3C3C3&icon_color=4ABB41&border_radius=30&layout=compact&langs_count=10" />
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Danh295&show_icons=true&theme=tokyonight&hide_border=true" alt="Danh295's Github Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danh295&layout=compact&theme=tokyonight&hide_border=true" alt="Danh295's Top Langs" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/Danh295/Danh295?style=flat&logo=github&color=7aa2f7" alt="GitHub last commit"/>
+  <img src="https://komarev.com/ghpvc/?username=Danh295&style=flat&color=7aa2f7" alt="visitor badge"/>
+</p>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
-  <img src="https://img.shields.io/github/last-commit/Danh295/Danh295" alt="GitHub last commit"/>
-  <img src="https://komarev.com/ghpvc/?username=Danh295&color=4ABB41" alt="visitor badge"/>
-</div>
-
----
 
 ## Contact me!
 
