@@ -1,16 +1,15 @@
 # Hi, I'm Danny 👋
 
 <div align="left" style="line-height: 1.8; margin-bottom: 20px;">
-  I work on some projects here from time to time!<br>
-  💼 Currently seeking internships 🤞🙏<br>
+  I'm a full-stack software developer and student!
+  💼 Currently working at the City of Waterloo<br>
   🧑‍💻 Portfolio website in the works<br>
-  📖 Studying C/C++ at the University of Waterloo<br>
-  🎓 CS (UW) & BBA (WLU) '28
+  🎓 Studying CS @ UW and BBA @ WLU
 </div>
 
 ## Languages
 
-<code><img height="20" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+<code><img height="20" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
 <code><img height="20" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img height="20" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
@@ -24,15 +23,14 @@
 <code><img height="20" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <code><img height="20" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg"></code>
 <code><img height="20" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
-<code><img height="20" alt="Vim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"></code>
 <code><img height="20" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="20" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 
 ### Frameworks & Libraries
 
 <code><img height="20" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-<code><img height="20" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
 <code><img height="20" alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"></code>
+<code><img height="20" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
 <code><img height="20" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="20" alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"></code>
 <code><img height="20" alt="Strapi" src="https://cdn.worldvectorlogo.com/logos/strapi-2.svg"></code>
@@ -40,18 +38,25 @@
 ## Github Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Danh295&show_icons=true&theme=tokyonight&hide_border=true" alt="Danh295's Github Stats" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danh295&layout=compact&theme=tokyonight&hide_border=true" alt="Danh295's Top Langs" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Danh295&theme=dark&background=0D1117&ring=3FA955&currStreakLabel=3FA955&fire=3FA955&border=0D1117&hide_border=true" alt="Danh295's Streak" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danh295&theme=dark&bg_color=0D1117&title_color=3FA955&text_color=c9d1d9&hide_border=true&layout=compact" alt="Danh295's Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/Danh295/Danh295?style=flat&logo=github&color=7aa2f7" alt="GitHub last commit"/>
-  <img src="https://komarev.com/ghpvc/?username=Danh295&style=flat&color=7aa2f7" alt="visitor badge"/>
+  <img src="https://img.shields.io/github/last-commit/Danh295/Danh295?style=flat-square&color=3FA955&labelColor=0D1117" alt="GitHub last commit"/>
+  <img src="https://komarev.com/ghpvc/?username=Danh295&style=flat-square&color=3FA955&label=VIEWS" alt="visitor badge"/>
 </p>
 
 
 ## Contact me!
 
-<div align="left">
-  <a href="mailto:hudanny295@gmail.com/"><img alt="Send me an email!" width="120px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png" /></a>
-</div>
+<p align="center">
+  <a href="mailto:hudanny295@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-hudanny295%40gmail.com-3FA955?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+  </a>
+  
+  &nbsp;&nbsp; <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID_HERE/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-3FA955?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+  </a>
+</p>
