@@ -1,7 +1,7 @@
 # Hi, I'm Danny 👋
 
 <div align="left" style="line-height: 1.8; margin-bottom: 20px;">
-  I'm a full-stack **software developer** and **student**!<br>
+  I'm a full-stack <b>software developer</b> & <b>student</b>!<br>
   💼 Currently working at the City of Waterloo<br>
   🎓 Studying CS @ UW and BBA @ WLU<br>
 </div>
