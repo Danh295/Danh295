@@ -2,7 +2,7 @@
 
 <div align="left" style="line-height: 1.8; margin-bottom: 20px;">
   I'm a full-stack <b>software developer</b> & <b>student</b>!<br>
-  💼 Currently working at the City of Waterloo<br>
+  💼 Working at the City of Waterloo, building **computer vision** & **ocr pipelines!**<br>
   🎓 Studying CS @ UW and BBA @ WLU<br>
 </div>
 
