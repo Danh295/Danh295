@@ -2,8 +2,10 @@
 
 <div align="left" style="line-height: 1.8; margin-bottom: 20px;">
   I'm a full-stack <b>software developer</b> & <b>student</b>!<br>
-  💼 Working at the City of Waterloo, building <b>computer vision</b> & <b>ocr pipelines!</b><br>
-  🎓 Studying CS @ UW and BBA @ WLU<br>
+  🎓 Currently studying CS @ UW and BBA @ WLU<br>
+  🔎 Currently seeking intern/co-op opportunities for the 2026 fall term<br>
+  💼 Previously @ City of Waterloo, built <b>computer vision</b> & <b>ocr pipelines!</b><br>
+  
 </div>
 
 ## Languages
