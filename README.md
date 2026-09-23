@@ -1,14 +1,20 @@
-# Hi, I'm Danny 👋
+# Hey, I'm Danny 👋
 
 <div align="left" style="line-height: 1.8; margin-bottom: 20px;">
-  I'm a full-stack <b>software developer</b> & <b>student</b>!<br>
-  🎓 Currently studying CS @ UW and BBA @ WLU<br>
-  🔎 Currently seeking intern/co-op opportunities for the 2026 fall term<br>
-  💼 Previously @ City of Waterloo, built <b>computer vision</b> & <b>ocr pipelines!</b><br>
-  
+  I'm a full-stack <b>software developer</b> & full-time <b>student</b>!<br>
+
+  <br>
+  <t>
+    🎓 Currently studying CS @ UW & BBA @ WLU<br>
+    💼 Currently @ IESO, building Python software solutions & working with data pipelines!<br>
+    🗃️ Previously @ City of Waterloo, built computer vision & ocr pipelines!<br>
+  </t>
 </div>
 
-## Languages
+
+## Dev Kit
+
+### Languages
 
 <code><img height="20" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></code>
 <code><img height="20" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
@@ -47,7 +53,7 @@
   <img src="https://komarev.com/ghpvc/?username=Danh295&style=flat-square&color=2ea44f&label=VIEWS&labelColor=151515" alt="visitor badge"/>
 </div>
 
-## Contact me!
+## Connect with me!
 
 <div align="left" gap="50px">
   <a href="mailto:hudanny295@gmail.com">
@@ -55,5 +61,8 @@
   </a>
   <a href="https://www.linkedin.com/in/danny-hu-395380225/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
+  </a>
+  <a href="https://devpost.com/hudanny295?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+    <img src="https://cdn.simpleicons.org/devpost/white" height="40" alt="devpost" />
   </a>
 </div>
