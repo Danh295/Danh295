@@ -1,12 +1,12 @@
 # Hey, I'm Danny 👋
 
-I'm in the CS + BBA double degree at the University of Waterloo and Wilfrid Laurier. I've worked across the stack, but most of what I build is web apps. Lately that's meant computer vision, OCR, and putting LLMs into apps where they do actual work.
+I'm doing CS at Waterloo and a BBA at Laurier (the double degree). I've worked across the stack, but most of my work is web and app dev, and lately I've been getting into computer vision and OCR.
 
-- **Now:** software solutions developer co-op at **IESO** (Sep – Dec 2026). I write Python proofs of concept and data pipelines, and work with SQL databases.
-- **Before:** software developer co-op at the **City of Waterloo** (Jan – Apr 2026). I built a pipeline that reads scanned parking tickets and turns them into structured data (PaddleOCR and OpenCV behind FastAPI, with a Next.js front end). Before that I was a web developer at CiviConnect.
-- **Looking for:** Fall 2027 co-ops, in Toronto or remote.
+Right now I'm a software solutions developer co-op at **IESO** (Sep – Dec 2026), working on Python proofs of concept, data pipelines and SQL. Before that I was at the **City of Waterloo** (Jan – Apr 2026), building an OCR pipeline that pulls the details off scanned parking tickets. Earlier, I did web dev at CiviConnect.
 
-My portfolio is at [danh295.github.io/Portfolio](https://danh295.github.io/Portfolio/). It's styled like a terminal, and it has a working shell mode.
+I'm looking for Fall 2027 co-ops, in Toronto or remote.
+
+More about me is on my [portfolio](https://danh295.github.io/Portfolio/). It looks like a terminal, and you can actually type commands into it.
 
 ## Stack
 
@@ -48,7 +48,7 @@ My portfolio is at [danh295.github.io/Portfolio](https://danh295.github.io/Portf
 
 <code><img height="20" alt="OpenCV" title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"></code>
 
-I also use PaddleOCR, MediaPipe, LangGraph, ChromaDB and MCP, plus the Gemini, OpenAI and ElevenLabs APIs.
+Plus PaddleOCR, MediaPipe, LangGraph, ChromaDB, MCP, and the Gemini, OpenAI and ElevenLabs APIs.
 
 **Tools**
 
@@ -76,4 +76,4 @@ I also use PaddleOCR, MediaPipe, LangGraph, ChromaDB and MCP, plus the Gemini, O
 
 Email me at [hudanny295@gmail.com](mailto:hudanny295@gmail.com), or find me on [LinkedIn](https://www.linkedin.com/in/danny-hu-395380225/) or [Devpost](https://devpost.com/hudanny295).
 
-Outside of code, I play guitar and video games. I also really like eggs.
+When I'm not coding, I'm playing guitar or video games, or eating eggs.
