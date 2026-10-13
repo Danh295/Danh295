@@ -8,27 +8,6 @@ I'm in the CS + BBA double degree at the University of Waterloo and Wilfrid Laur
 
 My portfolio is at [danh295.github.io/Portfolio](https://danh295.github.io/Portfolio/). It's styled like a terminal, and it has a working shell mode.
 
-## What I'm working on
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [AI Room Editor](https://github.com/Danh295/AI-Room-Editor) | A room planner that runs locally. You can draw a floor plan or trace one from a photo, then paste a product link to pull real furniture dimensions. Pieces snap into a scaled plan, and it checks for collisions and walkway clearance. | React, TypeScript, Konva, Zustand, Express, Gemini, Vitest |
-| [Portfolio](https://github.com/Danh295/Portfolio) | My site. It has a GUI mode, a terminal mode with vim, and an egg-cooking minigame. | Next.js, React, GitHub Pages |
-| [dannys-claude-mods](https://github.com/Danh295/dannys-claude-mods) | Plugins for Claude Code. `jot` is a notes pane that keeps your notes between sessions. `jargon` highlights jargon in Claude's replies and explains each term in plain English. | TypeScript |
-
-## Hackathons
-
-| Project | Event | What it is |
-| --- | --- | --- |
-| [PuppetMaster](https://github.com/Danh295/PuppetMaster) | DDC x Ignition Hacks, **2nd overall** | A 2D animation studio in the browser. A webcam tracks your pose, and the puppet copies your moves live. MediaPipe and Canvas. |
-| [Opera AI](https://github.com/smitsp11/HackCanada26) | Hack Canada 2026, **won 2 tracks** | Diagnoses appliance problems from photos or video and writes repair steps. I built the FastAPI backend and the AI workflow. |
-| [Recall](https://devpost.com/software/recall-g09kuw) | GenAI Genesis 2026 | A desktop app that indexes your screen, files, Slack and Notion into a local vector store. Claude Code and Cursor can query it over MCP. Electron, FastAPI, ChromaDB. |
-| [AniFriend](https://github.com/Danh295/AniFriend) | Ctrl-Hack-Del 2.0, **Best Valentine's Day Hack** | An AI dating sim with a Live2D character. Gemini writes the dialogue and ElevenLabs does the voice, with lip sync. [Try it](https://anifriend.vercel.app). |
-| [MoneyBird](https://github.com/Danh295/MoneyBird) | UofTHacks 13 | A chat app for money stress. Multiple LangGraph agents work through the problem and turn it into next steps. Next.js, FastAPI, Supabase. |
-| [OperAid](https://github.com/Danh295/OperAid) | TechTO 2025 | A voice assistant for surgeons. You ask out loud for patient records and scans, and it pulls them up. OpenAI function calling, ElevenLabs, Supabase. |
-
-More on [Devpost](https://devpost.com/hudanny295).
-
 ## Stack
 
 **Languages**
