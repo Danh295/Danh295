@@ -17,14 +17,12 @@
 ### Languages
 
 <code><img height="20" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="20" alt="C++" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
 <code><img height="20" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" alt="C++" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="20" alt="C" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
-<code><img height="20" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-<code><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/bash-white.svg"><img height="20" alt="Bash" title="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></picture></code>
 <code><img height="20" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img height="20" alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/bash-white.svg"><img height="20" alt="Bash" title="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></picture></code>
 
 ### Frameworks & Libraries
 
@@ -37,21 +35,21 @@
 <code><img height="20" alt="Pandas" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
 <code><img height="20" alt="NumPy" title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></code>
 <code><img height="20" alt="Matplotlib" title="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"></code>
+<code><img height="20" alt="OpenCV" title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"></code>
 
 ### ML & Vision
 
-<code><img height="20" alt="OpenCV" title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"></code>
 <code><img height="20" alt="PaddleOCR" title="PaddleOCR" src="assets/icons/paddleocr.svg"></code>
 <code><img height="20" alt="Tesseract" title="Tesseract" src="assets/icons/tesseract.png"></code>
 <code><img height="20" alt="TrOCR (Microsoft)" title="TrOCR (Microsoft)" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/microsoft-color.svg"></code>
 <code><img height="20" alt="MediaPipe" title="MediaPipe" src="assets/icons/mediapipe.svg"></code>
 <code><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/langgraph-white.svg"><img height="20" alt="LangGraph" title="LangGraph" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/langgraph-color.svg"></picture></code>
 
-### AI
+### AI Tools
 
-<code><img height="20" alt="Gemini" title="Gemini" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/gemini-color.svg"></code>
 <code><img height="20" alt="Claude" title="Claude" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/claude-color.svg"></code>
 <code><img height="20" alt="Claude Code" title="Claude Code" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/claudecode-color.svg"></code>
+<code><img height="20" alt="Gemini" title="Gemini" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/gemini-color.svg"></code>
 <code><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/ollama-white.svg"><img height="20" alt="Ollama" title="Ollama" src="assets/icons/ollama-black.svg"></picture></code>
 <code><img height="20" alt="Qwen" title="Qwen" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/qwen-color.svg"></code>
 <code><img height="20" alt="Gemma" title="Gemma" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/gemma-color.svg"></code>
@@ -65,7 +63,7 @@
 <code><img height="20" alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
 <code><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/vercel-white.svg"><img height="20" alt="Vercel" title="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"></picture></code>
 <code><img height="20" alt="Supabase" title="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"></code>
-<code><img height="20" alt="Jupyter" title="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"></code>
+<code><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/jupyter-wordmark-white.svg"><img height="32" alt="Jupyter" title="Jupyter" src="assets/icons/jupyter-wordmark.svg"></picture></code>
 ## GitHub stats
 
 <div align="center">
