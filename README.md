@@ -1,16 +1,20 @@
 # Hey, I'm Danny 👋
 
-I'm doing CS at Waterloo and a BBA at Laurier (the double degree). I've worked across the stack, but most of my work is web and app dev, and lately I've been getting into computer vision and OCR.
+<div align="left" style="line-height: 1.8; margin-bottom: 20px;">
+  I'm a full-stack <b>software developer</b> & full-time <b>student</b>!<br>
 
-Right now I'm a software solutions developer co-op at **IESO** (Sep – Dec 2026), working on Python proofs of concept, data pipelines and SQL. Before that I was at the **City of Waterloo** (Jan – Apr 2026), building an OCR pipeline that pulls the details off scanned parking tickets. Earlier, I did web dev at CiviConnect.
+  <br>
+  <t>
+    🎓 Currently studying CS @ UW & BBA @ WLU<br>
+    💼 Currently @ IESO, building Python software solutions & working with data pipelines!<br>
+    🗃️ Previously @ City of Waterloo, built computer vision & ocr pipelines!<br>
+  </t>
+</div>
 
-I'm looking for Fall 2027 co-ops, in Toronto or remote.
 
-More about me is on my [portfolio](https://danh295.github.io/Portfolio/). It looks like a terminal, and you can actually type commands into it.
+## Dev Kit
 
-## Stack
-
-**Languages**
+### Languages
 
 <code><img height="20" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img height="20" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
@@ -18,49 +22,50 @@ More about me is on my [portfolio](https://danh295.github.io/Portfolio/). It loo
 <code><img height="20" alt="C++" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20" alt="C" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
 <code><img height="20" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
-<code><img height="20" alt="SQL (PostgreSQL)" title="SQL (PostgreSQL)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
-<code><img height="20" alt="Bash" title="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
+<code><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/bash-white.svg"><img height="20" alt="Bash" title="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></picture></code>
 <code><img height="20" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img height="20" alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 
-**Frontend**
+### Frameworks & Libraries
 
 <code><img height="20" alt="React" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
 <code><img height="20" alt="Next.js" title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
 <code><img height="20" alt="Tailwind CSS" title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></code>
 <code><img height="20" alt="Vite" title="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"></code>
-<code><img height="20" alt="Framer Motion" title="Framer Motion" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg"></code>
-<code><img height="20" alt="Electron" title="Electron" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"></code>
-
-**Backend & data**
-
 <code><img height="20" alt="FastAPI" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"></code>
 <code><img height="20" alt="Node.js" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="20" alt="Express" title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
-<code><img height="20" alt="Supabase" title="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"></code>
-<code><img height="20" alt="MongoDB" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="20" alt="Pandas" title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
 <code><img height="20" alt="NumPy" title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></code>
-<code><img height="20" alt="Jupyter" title="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"></code>
 <code><img height="20" alt="Matplotlib" title="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"></code>
 
-**Vision & AI**
+### ML & Vision
 
 <code><img height="20" alt="OpenCV" title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"></code>
+<code><img height="20" alt="PaddleOCR" title="PaddleOCR" src="assets/icons/paddleocr.svg"></code>
+<code><img height="20" alt="Tesseract" title="Tesseract" src="assets/icons/tesseract.png"></code>
+<code><img height="20" alt="TrOCR (Microsoft)" title="TrOCR (Microsoft)" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/microsoft-color.svg"></code>
+<code><img height="20" alt="MediaPipe" title="MediaPipe" src="assets/icons/mediapipe.svg"></code>
+<code><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/langgraph-white.svg"><img height="20" alt="LangGraph" title="LangGraph" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/langgraph-color.svg"></picture></code>
 
-Plus PaddleOCR, MediaPipe, LangGraph, ChromaDB, MCP, and the Gemini, OpenAI and ElevenLabs APIs.
+### AI
 
-**Tools**
+<code><img height="20" alt="Gemini" title="Gemini" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/gemini-color.svg"></code>
+<code><img height="20" alt="Claude" title="Claude" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/claude-color.svg"></code>
+<code><img height="20" alt="Claude Code" title="Claude Code" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/claudecode-color.svg"></code>
+<code><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/ollama-white.svg"><img height="20" alt="Ollama" title="Ollama" src="assets/icons/ollama-black.svg"></picture></code>
+<code><img height="20" alt="Qwen" title="Qwen" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/qwen-color.svg"></code>
+<code><img height="20" alt="Gemma" title="Gemma" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/gemma-color.svg"></code>
 
+### Editors & Tools
+
+<code><img height="20" alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+<code><img height="20" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
 <code><img height="20" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="20" alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 <code><img height="20" alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
-<code><img height="20" alt="Vercel" title="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"></code>
-<code><img height="20" alt="Vitest" title="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg"></code>
-<code><img height="20" alt="Playwright" title="Playwright" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg"></code>
-<code><img height="20" alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-<code><img height="20" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
-
+<code><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/vercel-white.svg"><img height="20" alt="Vercel" title="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"></picture></code>
+<code><img height="20" alt="Supabase" title="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"></code>
+<code><img height="20" alt="Jupyter" title="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"></code>
 ## GitHub stats
 
 <div align="center">
@@ -75,5 +80,3 @@ Plus PaddleOCR, MediaPipe, LangGraph, ChromaDB, MCP, and the Gemini, OpenAI and 
 ## Get in touch
 
 Email me at [hudanny295@gmail.com](mailto:hudanny295@gmail.com), or find me on [LinkedIn](https://www.linkedin.com/in/danny-hu-395380225/) or [Devpost](https://devpost.com/hudanny295).
-
-When I'm not coding, I'm playing guitar or video games, or eating eggs.
